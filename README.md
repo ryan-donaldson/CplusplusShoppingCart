@@ -8,7 +8,7 @@ cost. By creating a separate Item class, I can choose to add or remove items fro
 The goal of this program is to practice the use of classes, methods, functions, and reading and writing to files in C++ and getting them to work together.
 This is my first program in C++, and I wanted to create something that would stretch me.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+Here is a link to a demo video of my program and its code.
 
 [Software Demo Video](https://youtu.be/feWQjUU3TZU)
 
