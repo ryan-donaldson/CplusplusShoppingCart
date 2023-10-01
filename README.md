@@ -24,5 +24,4 @@ This program is coded in C++. I used the C++ Standard Library and headers such a
 
 # Future Work
 It might be useful to keep track of files that have been saved to, in case the user forgets the filename they entered.
-
-{Make a list of things that you need to fix, improve, and add in the future.}
+Add code to handle users entering strings instead of integers for menu options.
